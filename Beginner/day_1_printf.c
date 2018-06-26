@@ -34,4 +34,4 @@ You can't nest multi line comments.*/
 //You can navigate stdio.h file by placing cursor to #include <stdio.h> statement
 //and press Jump button in custom keyboard page in Mobile C built-in soft keyboard.
 
-//Now, run the program watch the result.
+//Now, run the program and watch the result.
