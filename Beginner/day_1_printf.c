@@ -23,7 +23,7 @@ You can't nest multi line comments.*/
 //which outputs formatted text to standard output( typically console/terminal ).
 
 //First line of the example above is C preprocessor statement for header file inclusion.
-//stdio.h file is compiler provided file and located in compiler installation folder.
+//stdio.h file is compiler provided header file and located in compiler installation folder.
 //Inside stdio.h, many functions / types / variable / macros are declared.
 
 //printf() scanf() are examples of function declarations.
