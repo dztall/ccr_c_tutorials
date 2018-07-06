@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 //describe the intention of the chunk of code to the reader.
 
 /*This is multi line comment.
-You can't nest multi line comments.*/
+You can't nest multi line comments in C/C++ language.*/
 
 //main() is a special function which is the entry point of the program.
 //Function is a block of code which receives multiple values and returns 
