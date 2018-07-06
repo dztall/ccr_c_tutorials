@@ -23,15 +23,15 @@ You can't nest multi line comments in C/C++ language.*/
 //which outputs formatted text to standard output( typically console/terminal ).
 
 //First line of the example above is C preprocessor statement for header file inclusion.
-//stdio.h file is compiler provided header file and located in compiler installation folder.
-//Inside stdio.h, many functions / types / variable / macros are declared.
+//stdio.h file is compiler provided header file and located in the compiler installation folder.
+//Inside stdio.h, many functions / types / variables / macros are declared.
 
-//printf() scanf() are examples of function declarations.
-//stdin stdout are examples of variable declarations.
-//EOF FILENAME_MAX are examples of macro definitions. Macros are typically all capitalized.
-//fpos_t FILE are examples of type declarations.
+//printf(), scanf() are examples of function declarations.
+//stdin, stdout are examples of variable declarations.
+//EOF, FILENAME_MAX are examples of macro definitions. Macros are typically all capitalized.
+//fpos_t, FILE are examples of type declarations.
 
-//You can navigate stdio.h file by placing cursor to #include <stdio.h> statement
+//You can navigate stdio.h file by placing cursor to #include <stdio.h> preprocessor statement
 //and press Jump button in custom keyboard page in Mobile C built-in soft keyboard.
 
 //Now, run the program and watch the result.
